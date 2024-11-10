@@ -1,0 +1,3 @@
+[submodule "NutsAndBolts/NutsAndBolts/vendors/GLFW"]
+	path = NutsAndBolts/NutsAndBolts/vendors/GLFW
+	url = https://github.com/glfw/glfw
